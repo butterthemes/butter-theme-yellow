@@ -1,0 +1,13 @@
+{
+    "name": "butter-theme-pink",
+    "description": "Butter official pink theme",
+    "version": "0.0.1",
+    "main": "index.css",
+    "scripts": {},
+    "dependencies": {},
+    "keywords": [ "butter", "theme", "css"],
+    "repository": "butterthemes/butter-theme-pink",
+    "bugs": "https://github.com/butterthemes/butter-theme-pink/issues",
+    "author": "Baltazar Gomez <btzr.io@gmail>",
+    "license": "GPL-3.0"
+}
