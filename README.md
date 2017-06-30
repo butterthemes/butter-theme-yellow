@@ -1,2 +1,2 @@
-# butter-theme-flax
-Butter official Desktop-App flax theme
+# butter-theme-yellow
+Butter official Desktop-App yellow theme

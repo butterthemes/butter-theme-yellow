@@ -1,13 +1,13 @@
 {
-    "name": "butter-theme-flax",
-    "description": "Butter official flax theme",
+    "name": "butter-theme-yellow",
+    "description": "Butter official yellow theme",
     "version": "0.0.1",
     "main": "index.css",
     "scripts": {},
     "dependencies": {},
     "keywords": [ "butter", "theme", "css"],
-    "repository": "butterthemes/butter-theme-flax",
-    "bugs": "https://github.com/butterthemes/butter-theme-pink/issues",
+    "repository": "butterthemes/butter-theme-yellow",
+    "bugs": "https://github.com/butterthemes/butter-theme-yellow/issues",
     "author": "Baltazar Gomez <btzr.io@gmail>",
     "license": "GPL-3.0"
 }

@@ -1,4 +1,4 @@
-.butter-theme-flax{
+.butter-theme-yellow{
 
     /* Font */
     --Font-normal: 'Arial', sans-serif;
@@ -6,22 +6,22 @@
     --Font-color: #FFF;
 
     /* { Accent } */
-     --Main-color:  #de5362;
+     --Main-color:  #f3cc16;
 
     /* -- { Window } -- */
-    --Window-bg:  #191d22;
+    --Window-bg:  #070707;
 
     /* Window handler */
     --Window-handler-bg: transparent;
     --Window-handler-height: 33px;
 
     /* -- { Navbar } -- */
-    --Navbar-bg: #323a45;
+    --Navbar-bg: #070707;
 
     /* { Input } */
-    --Input-bg: rgba(0, 0, 0, 0.5);
+    --Input-bg: rgba(50, 50, 50, 0.5);
 
     /* { Button } */
-    --Button-hover-bg: #C74A58;
-    --Button-active-bg: #e16471;
+    --Button-hover-bg: #f3cc16;
+    --Button-active-bg: #f3cc16;
 }
