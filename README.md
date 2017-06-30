@@ -1,2 +1,2 @@
-# butter-theme-pink
-Butter official Desktop-App dark theme
+# butter-theme-flax
+Butter official Desktop-App flax theme

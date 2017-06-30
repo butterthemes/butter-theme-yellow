@@ -1,12 +1,12 @@
 {
-    "name": "butter-theme-pink",
-    "description": "Butter official pink theme",
+    "name": "butter-theme-flax",
+    "description": "Butter official flax theme",
     "version": "0.0.1",
     "main": "index.css",
     "scripts": {},
     "dependencies": {},
     "keywords": [ "butter", "theme", "css"],
-    "repository": "butterthemes/butter-theme-pink",
+    "repository": "butterthemes/butter-theme-flax",
     "bugs": "https://github.com/butterthemes/butter-theme-pink/issues",
     "author": "Baltazar Gomez <btzr.io@gmail>",
     "license": "GPL-3.0"
