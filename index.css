@@ -1,10 +1,27 @@
 .butter-theme-pink{
-    --Bg-color: #181C25;
-    --Nav-color: #181C25;
-    --Main-color: #FF1744;
-    --Input-bg-color: #121315;
+    
+    /* Font */
     --Font-normal: 'Arial', sans-serif;
     --Font-title: 'Dosis', sans-serif;
-    --Button-hover: #CF1A3D;
-    --Button-active: #FF496C;
+    --Font-color: #FFF;
+
+    /* { Accent } */
+     --Main-color:  #FF1744;
+
+    /* -- { Window } -- */
+    --Window-bg:  #181C25;
+
+    /* Window handler */
+    --Window-handler-bg: transparent;
+    --Window-handler-height: 33px;
+
+    /* -- { Navbar } -- */
+    --Navbar-bg: #181C25;
+
+    /* { Input } */
+    --Input-bg: rgba(0, 0, 0, 0.5);
+    
+    /* { Button } */
+    --Button-hover-bg: #CF1A3D;
+    --Button-active-bg: #FF496C;
 }
