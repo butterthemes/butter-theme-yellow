@@ -1,27 +1,29 @@
-.butter-theme-yellow{
+.butter-theme-yellow {
 
     /* Font */
     --Font-normal: 'Arial', sans-serif;
     --Font-title: 'Dosis', sans-serif;
     --Font-color: #FFF;
 
-    /* { Accent } */
+    /* Accent */
      --Main-color:  #f3cc16;
 
-    /* -- { Window } -- */
+    /* Window */
     --Window-bg:  #070707;
 
     /* Window handler */
     --Window-handler-bg: transparent;
     --Window-handler-height: 33px;
 
-    /* -- { Navbar } -- */
+    /* Navbar */
     --Navbar-bg: #070707;
 
-    /* { Input } */
-    --Input-bg: rgba(50, 50, 50, 0.5);
+    /* Input */
+    --Input-bg: var(--Common-light)
+    --Dropdown-bg: var(--Common-light)
 
-    /* { Button } */
+    /* Button */
+    --Button-color: #070707;
     --Button-hover-bg: #f3cc16;
     --Button-active-bg: #f3cc16;
 }
