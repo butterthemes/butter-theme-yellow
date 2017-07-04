@@ -19,8 +19,8 @@
     --Navbar-bg: #070707;
 
     /* Input */
-    --Input-bg: var(--Common-light)
-    --Dropdown-bg: var(--Common-light)
+    --Input-bg: var(--Common-light);
+    --Dropdown-bg: var(--Common-light);
 
     /* Button */
     --Button-color: #070707;
