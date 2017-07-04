@@ -19,8 +19,10 @@
     --Navbar-bg: #070707;
 
     /* Input */
-    --Input-bg: var(--Common-light);
-    --Dropdown-bg: var(--Common-light);
+    --Input-bg: rgba(255,255,255, 0.15);
+    
+     /* Dropdown */
+    --Dropdown-bg: rgba(255,255,255, 0.15);
 
     /* Button */
     --Button-color: #070707;
